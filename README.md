@@ -1,8 +1,9 @@
 ## Informatik Elias Lüthi
 
 <ol>
-<li> Punkt 1</li>
-
+<li> Punkt </li>
+<li> Komma</li>
+<li> Strich</li>
 
 <table>
 <tr>
