@@ -9,9 +9,12 @@
 4.Vier
 
 
-|r|m|l|
-1&2&3\\
-a&b&c\\
+<table>
+<tr>
+<td> geht das? </td>
+<td> wirklich? </td>
+</tr>
+</table>
 
 
 *was ist das* 
