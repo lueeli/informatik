@@ -8,10 +8,10 @@
 
 4.Vier
 
-/begin{tabular}{r|m|l}
-1&2&3//
-a&b&c//
-/end{tabular}
+\begin{tabular}{r|m|l}
+1&2&3\\
+a&b&c\\
+\end{tabular}
 
 *was ist das* 
 
