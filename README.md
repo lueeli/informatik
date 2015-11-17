@@ -20,6 +20,4 @@
 </table>
 
 
-*was ist das* 
-
-**das war was**
+*Das ist Kursiv,* **und das Fett!!**
