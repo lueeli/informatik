@@ -10,7 +10,7 @@
 
 /begin{tabular}{r|m|l}
 1&2&3//
-a&b%c//
+a&b&c//
 /end{tabular}
 
 *was ist das* 
