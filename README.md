@@ -4,6 +4,7 @@
 <li> Punkt </li>
 <li> Komma</li>
 <li> Strich</li>
+</ol>
 
 <table>
 <tr>
