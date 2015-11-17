@@ -16,4 +16,4 @@
 </table>
 
 
-*Das ist Kursiv,* **und das Fett!!**
+*Das ist Kursiv* **und das Fett!!**
